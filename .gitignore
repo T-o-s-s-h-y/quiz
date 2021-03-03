@@ -1,0 +1,6 @@
+# クイズアプリの画像ファイル
+web/images/*.jpg
+
+# クイズアプリのdataファイル
+mysql/data/*
+!.gitkeep
